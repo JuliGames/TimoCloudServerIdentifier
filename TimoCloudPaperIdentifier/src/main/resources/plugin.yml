@@ -1,4 +1,8 @@
 name: TimoCloudPaperIdentifier
 version: '${project.version}'
-main: net.juligames.core.addons.timocloudpaperidentifier.TimoCloudPaperIdentifier
-api-version: 1.19
+main: net.juligames.core.addons.timocloudidentifier.paper.TimoCloudPaperIdentifier
+api-version: 1.18
+author: Ture Bentzin
+depend:
+  - PaperCore
+  - TimoCloud
