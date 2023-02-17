@@ -1,0 +1,4 @@
+name: TimoCloudPaperIdentifier
+version: '${project.version}'
+main: net.juligames.core.addons.timocloudpaperidentifier.TimoCloudPaperIdentifier
+api-version: 1.19
